@@ -10,7 +10,7 @@ classifiers=[
 setup(
    name='pyBaseN',
    version='0.0.1',
-   description='A simple tool based on Luhn Algorithm)',
+   description='A simple tool for basen functionalities',
    long_description=open('README.txt').read(),
    long_description_content_type='text/markdown',
    url='',
